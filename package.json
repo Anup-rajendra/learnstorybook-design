@@ -1,5 +1,5 @@
 {
-  "name": "@jonniebigodes/learnstorybook-design-system-7-0",
+  "name": "@anup_rajendra_prasad/learnstorybook-design-system-7-0",
   "version": "0.1.14",
   "description": "Everything you need to build a starter design system",
   "main": "dist/cjs/index.js",
@@ -83,7 +83,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonniebigodes/learnstorybook-design-system-7-0.git"
+    "url": "https://github.com/Anup-rajendra/design-system"
   },
   "private": false
 }
